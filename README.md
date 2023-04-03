@@ -1,0 +1,2 @@
+# promocode-wordlist
+Promocode wordlist
