@@ -1,9 +1,9 @@
 # Promocode wordlist
-![](https://cdn.discordapp.com/attachments/853278743712104468/1092424413074444378/Frame_19106.png)
+![](https://raw.githubusercontent.com/thehlopster/promocode-wordlist/refs/heads/master/header.png)
 
 ## Wordlist for promocode bruteforcing, sorted by len, made from:
 - Result from my pentests
 - ChatGPT
 - Well-known patterns
 
-[![button to my repo](https://cdn.discordapp.com/attachments/853278743712104468/1092424413691007117/Dribbble_shot_-_8.png)](https://github.com/thehlopster/promocode-wordlist)
+[![button to my repo](https://raw.githubusercontent.com/thehlopster/promocode-wordlist/refs/heads/master/footer.png)](https://github.com/thehlopster/promocode-wordlist)
